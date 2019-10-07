@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=FallingObjects
+comment0.text=\r\n\ Represents\ objects\ that\ constantly\ fall\ until\ they\ reach\ the\ bottom\r\n\ \r\n\ @author\ Alan\ Liang\ \r\n\ @version\ 10/5/19\r\n
+comment1.params=
+comment1.target=void\ act()
+comment1.text=\r\n\ Act\ method\ is\ constantly\ called.\ It\ is\ used\ to\ call\ another\ method\ that\ makes\ objects\ constantly\ fall.\r\n
+comment2.params=
+comment2.target=void\ fall()
+comment2.text=\r\n\ Makes\ objects\ constantly\ fall\ with\ the\ use\ of\ dropSpeed.\ Objects\ will\ stop\ falling\ once\ onBottom\ equals\ true.\r\n
+comment3.params=
+comment3.target=boolean\ checkBottom()
+comment3.text=\r\n\ Used\ to\ check\ whether\ objects\ have\ hit\ the\ bottom\ or\ not.\ \r\n
+numComments=4

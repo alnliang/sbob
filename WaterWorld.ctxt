@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=WaterWorld
+comment0.text=\r\n\ Serves\ as\ a\ background\ as\ well\ as\ a\ way\ for\ all\ the\ objects\ to\ be\ initialized.\r\n\ \r\n\ @author\ Alan\ Liang\ \r\n\ @version\ 10/5/19\r\n
+comment1.params=
+comment1.target=WaterWorld()
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ WaterWorld.\r\n\ \r\n
+comment2.params=
+comment2.target=void\ dropGold()
+comment2.text=\r\n\ Finds\ a\ random\ x-value,\ and\ puts\ an\ instance\ of\ PirateGold\ on\ that\ position.\r\n
+comment3.params=
+comment3.target=void\ dropTrap()
+comment3.text=\r\n\ Finds\ a\ random\ x-value,\ and\ puts\ an\ instance\ of\ CrabTrap\ on\ that\ position.\r\n
+comment4.params=
+comment4.target=void\ act()
+comment4.text=\r\n\ Act\ methods\ are\ called\ constantly.\ This\ method\ determines\ whether\ a\ Crab\ Trap\ or\ a\ piece\ of\ gold\ will\ appear.\ It\ also\ serves\ as\ a\ \r\n\ scoreboard,\ using\ the\ Text\ class's\ setText\ method\ to\ display\ Sbob's\ gold\ score.\ Because\ it\ is\ an\ act\ method,\ the\ score\ is\ constantly\r\n\ updating.\r\n
+comment5.params=
+comment5.target=void\ prepare()
+comment5.text=\r\n\ Adds\ spongebob\ and\ text\ to\ the\ screen.\r\n
+numComments=6

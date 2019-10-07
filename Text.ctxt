@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=Text
+comment0.text=\r\n\ Text\ serves\ as\ a\ scoreboard.\r\n\ \r\n\ @author\ Alan\ Liang\ \r\n\ @version\ 10/5/19\r\n
+comment1.params=text
+comment1.target=void\ setText(java.lang.String)
+comment1.text=\r\n\ Displays\ any\ text\ passed\ in\ 48\ size\ font\ and\ in\ white.\ \r\n
+numComments=2

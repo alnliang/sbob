@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.target=Sbob
+comment0.text=\r\n\ Spongebob\ class,\ what\ the\ player\ controls\r\n\ \r\n\ @author\ Alan\ Liang\ \r\n\ @version\ 10/5/19\r\n
+comment1.params=
+comment1.target=int\ getGold()
+comment1.text=\r\n\ Gets\ the\ value\ of\ the\ integer\ gold\r\n
+comment2.params=
+comment2.target=void\ act()
+comment2.text=\r\n\ Act\ method\ is\ called\ constantly.\ Checks\ if\ spongebob\ can\ catch\ an\ object,\ and\ depending\ on\ the\ object\ spongebob\ catches,\ an\ event\ \r\n\ happens.\ If\ spongebob\ catches\ gold,\ the\ variable\ gold\ increases\ by\ 1,\ if\ spongebob\ catches\ a\ crab\ trap,\ the\ game\ ends.\ Depending\ on\ the\r\n\ arrow\ key\ pressed,\ spongebob\ will\ move\ either\ left\ or\ right.\r\n
+comment3.params=
+comment3.target=boolean\ canCatchGold()
+comment3.text=\r\n\ Checks\ if\ spongebob\ can\ catch\ gold\r\n
+comment4.params=
+comment4.target=void\ CatchGold()
+comment4.text=\r\n\ Depending\ on\ what\ canCatchGold()\ returns,\ this\ method\ will\ make\ spongebob\ catch\ gold.\r\n
+comment5.params=
+comment5.target=boolean\ canCrabTrap()
+comment5.text=\r\n\ Determines\ if\ spongebob\ can\ be\ affected\ by\ a\ crab\ trap\r\n
+comment6.params=
+comment6.target=void\ GetCrabTrap()
+comment6.text=\r\n\ Depending\ on\ what\ canCrabTrap()\ returns,\ this\ method\ will\ make\ crab\ traps\ effective\ against\ spongebob.\r\n
+numComments=7
